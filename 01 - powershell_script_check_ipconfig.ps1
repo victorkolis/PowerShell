@@ -1,0 +1,1 @@
+ipconfig | out-file -filepath C:\Users\victordematos\Desktop\IPText.txt
